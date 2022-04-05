@@ -268,7 +268,7 @@ GEM
     websocket-extensions (0.1.5)
     xtrade-calculations (0.7)
       rubystats (= 0.2.4)
-    yajl-ruby (1.4.1)
+    yajl-ruby (1.4.2)
 
 PLATFORMS
   ruby
